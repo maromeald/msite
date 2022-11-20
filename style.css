@@ -61,9 +61,8 @@ nav h1 a{
 
 .main{
     padding: 55px;
-    background-color: black;
+    background-image: url("5.jpg");
     padding-bottom: 250px;
-    background-color: black;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -590,7 +589,7 @@ footer span{
     }
     .main{
     padding: 55px;
-    background-color: black;
+    background-image: url("1.png");
     padding-bottom: 190px;
     }
     .main li{
