@@ -60,9 +60,22 @@ ul li a:hover{
     padding: 50px 60px;
     background-color: rgb(181, 181, 181);
     border: 2px solid rgb(0, 85, 255);
-    margin: 20px 110px;
+    margin: 20px 190px;
     border-radius: 15px;
     margin-bottom: 150px;
+    animation-name: anii;
+    animation-duration: 1s;
+    animation-iteration-count: 1000000000;
+    position: relative;
+}
+
+@keyframes anii{
+    from {
+        border: 5px solid rgb(93, 137, 226);
+    }
+    to{
+        border: 5px solid rgb(255, 255, 255);
+    }
 }
 
 .about h1{
