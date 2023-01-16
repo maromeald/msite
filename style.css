@@ -111,4 +111,29 @@ h5 a i{
         border-radius: 15px;
         font-size: 17px;
     }
+
+    .photo img{
+        height: 350px;
+        border-radius: 15px;
+    }
+}
+
+
+.photos h1{
+    color: azure;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.photo {
+    text-align: center;
+    margin: 50px 0;
+    border-bottom: 2px solid rgb(98, 100, 104);
+}
+
+.photo img{
+    height: 550px;
+    border-radius: 15px;
+    margin: 50px;
 }
