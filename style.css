@@ -33,7 +33,7 @@ nav h1{
 
 
 .about{
-    border-bottom: 2px solid rgb(98, 100, 104);
+    border-bottom: 2px solid  rgb(0, 136, 255)
 }
 
 .about h5{
@@ -129,7 +129,7 @@ h5 a i{
 .photo {
     text-align: center;
     margin: 50px 0;
-    border-bottom: 2px solid rgb(98, 100, 104);
+    border-bottom: 2px solid  rgb(0, 136, 255);
 }
 
 .photo img{
