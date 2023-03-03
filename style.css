@@ -16,14 +16,27 @@ body{
  }
 .header{
 }
-nav{
-    display: flex;
-    align-items: center;
-    flex-wrap: nowrap;
-    justify-content: space-around;
-    background-color: rgb(215, 219, 223);
-}
-
+  nav {
+    background-color: #333;
+  }
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  nav ul li {
+    float: left;
+  }
+  nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  nav ul li a:hover {
+    background-color: #111;
+  }
 
 nav h1{
     padding: 10px;
